@@ -1,0 +1,26 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Archivos internos de trabajo
+CONTEXTO_PROYECTO.md
+
+# Versión obsoleta del informe (datos incorrectos, reemplazada por v2)
+TP_Final_Informe.pdf
+
+# Gráficos de versiones anteriores del notebook (nombrados con prefijo rfm_)
+grafico_rfm_*.png
+grafico_scatter_rfm.png
+
+# Archivo vacío
+online_retail_ii.zip
+
+# OS
+.DS_Store
+Thumbs.db
