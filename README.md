@@ -7,6 +7,8 @@
 
 Trabajo práctico final de la materia **Minería y Modelizado de Datos**. Aplica la metodología **CRISP-DM** sobre un dataset de transacciones de una tienda argentina de artículos del hogar (velas, cocina, decoración, aromatización, regalería).
 
+ **Integrantes**: Estigarribia carlos, Barrabasqui  Horacio, Diego Mealla, Dominguez Micaela
+
 **Objetivos:**
 - Segmentar clientes según su comportamiento de compra usando **K-Means**
 - Descubrir qué productos se compran juntos usando **APRIORI** (market basket analysis)
